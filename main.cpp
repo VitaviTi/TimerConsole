@@ -13,6 +13,7 @@ int main()
         Sleep(1000);
     }
     system("cls");
+    std::cout << "BOOOM!" << std::endl;
     std::cout << "Ok" << std::endl;
     return 0;
 }
